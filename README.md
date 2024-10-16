@@ -23,6 +23,7 @@ To get started with CCopy, download the latest release from the Releases page or
 	•	git clone https://github.com/SamoDev/CCopy.git
 	•	cd CCopy
 	•	open CCopy.xcodeproj
+ or at Realases
 
 # Usage
 
