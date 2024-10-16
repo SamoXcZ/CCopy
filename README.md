@@ -20,9 +20,9 @@ CCopy is a modern clipboard manager for iOS that allows you to effortlessly save
 
 To get started with CCopy, download the latest release from the Releases page or build it from source:
 
-git clone https://github.com/SamoXcZ/CCopy.git
-cd CCopy
-open CCopy.xcodeproj
+ • git clone https://github.com/SamoDev/CCopy.git
+ • cd CCopy
+ • open CCopy.xcodeproj
 
 # Usage
 
