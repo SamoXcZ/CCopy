@@ -24,7 +24,8 @@ To get started with CCopy, download the latest release from the [Releases](https
 4. Enjoy a streamlined clipboard experience!
 
 # Reminder
-Please enable this in-app settings to remove that boring alert everytime the app asks to auto-paste.
+• Please enable this in-app settings to "allow", if you want to remove that boring alert everytime the app asks to auto-paste.
+
 ![IMG_0383](https://github.com/user-attachments/assets/2cf39beb-bd35-48a5-82e6-073ed768489b)
 
 
