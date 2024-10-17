@@ -9,8 +9,6 @@ CCopy is a modern clipboard manager for iOS that allows you to effortlessly save
 - **Permanent Save Option**: With a simple tap, keep any clipboard entry forever.
 - **Sleek User Interface**: Designed with a modern aesthetic for intuitive navigation.
 
-## Icon
-![BD99199C-1D02-4E86-92B3-FD9BE7E08B52-modified](https://github.com/user-attachments/assets/dad98074-18c8-4fb9-b3c3-37379a8e5ba1)
 
 ## Installation
 
