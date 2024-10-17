@@ -14,6 +14,9 @@ CCopy is a modern clipboard manager for iOS that allows you to effortlessly save
 
 To get started with CCopy, download the latest release from the [Releases](https://github.com/SamoXcZ/CCopy/releases/tag/1.0) page.
 
+# ISSUES
+• Sideloady has an random error with the app not being recognised or whatever. Use ALT store instead or any other iPA Signer. (It may be fixed soon idk).
+
 ## Usage
 
 1. Copy any text or item you want to save to your clipboard.
